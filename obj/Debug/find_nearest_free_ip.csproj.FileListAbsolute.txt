@@ -1,0 +1,8 @@
+C:\Users\Александр\projectsC\find_nearest_free_ip\bin\Debug\find_nearest_free_ip.exe.config
+C:\Users\Александр\projectsC\find_nearest_free_ip\bin\Debug\find_nearest_free_ip.exe
+C:\Users\Александр\projectsC\find_nearest_free_ip\bin\Debug\find_nearest_free_ip.pdb
+C:\Users\Александр\projectsC\find_nearest_free_ip\obj\Debug\find_nearest_free_ip.csproj.AssemblyReference.cache
+C:\Users\Александр\projectsC\find_nearest_free_ip\obj\Debug\find_nearest_free_ip.csproj.CoreCompileInputs.cache
+C:\Users\Александр\projectsC\find_nearest_free_ip\obj\Debug\find_nearest_free_ip.exe
+C:\Users\Александр\projectsC\find_nearest_free_ip\obj\Debug\find_nearest_free_ip.pdb
+C:\Users\Александр\projectsC\find_nearest_free_ip\obj\Debug\find_nearest_free_ip.exe.config

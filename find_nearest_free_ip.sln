@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find_nearest_free_ip", "find_nearest_free_ip.csproj", "{BC238E44-2C7E-401E-AC09-C63C5D64DFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC238E44-2C7E-401E-AC09-C63C5D64DFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC238E44-2C7E-401E-AC09-C63C5D64DFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC238E44-2C7E-401E-AC09-C63C5D64DFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC238E44-2C7E-401E-AC09-C63C5D64DFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F8FFC0-7AA9-4203-88BC-427C0D91C9C2}
+	EndGlobalSection
+EndGlobal
